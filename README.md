@@ -10,4 +10,4 @@
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" /> 
   <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" /> 
 </p>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RupertWatson)](https://git.io/streak-stats)
+[GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RupertWatson)](https://git.io/streak-stats)
